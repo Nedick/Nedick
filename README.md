@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedick&label=Profile%20views&color=0e75b6&style=flat" alt="nedick" /> </p>
 
-- 🌱 I’m currently learning **Solidity and Go**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nedick](https://github.com/Nedick)
 
 <h3 align="left">Connect with me:</h3>
