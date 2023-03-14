@@ -12,21 +12,6 @@
 
 ###
 
-<h4 align="left">Connect with me:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nedelin-slavov/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/nedick" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-</div>
-
-###
-
 <h4 align="left">Technologies and tools I used over the years:</h4>
 
 ###
@@ -67,6 +52,21 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=Nedick" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true&username=Nedick" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h4 align="left">Connect with me:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nedelin-slavov/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/nedick" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
 </div>
 
 ###
